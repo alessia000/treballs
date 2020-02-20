@@ -5,3 +5,5 @@
 3_moma https://alessia000.github.io/3_moma/
 4_mondrian https://alessia000.github.io/4_mondrian/
 5_mondrian personal https://alessia000.github.io/5_mondrian.modificado/
+6_dibujo animal https://alessia000.github.io/07.-ej.-animal/
+7_dibujo lapiz
