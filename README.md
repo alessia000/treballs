@@ -7,3 +7,4 @@
 5_mondrian personal https://alessia000.github.io/5_mondrian.modificado/
 6_dibujo animal https://alessia000.github.io/06.-ej.-animal/
 7_dibujo lapiz https://alessia000.github.io/07.lapiz/
+8_portfolio https://alessia000.github.io/08-portfolio/
